@@ -1,0 +1,30 @@
+{
+  "name": "deltabower",
+  "version": "0.1.0",
+  "authors": [
+    "guochao"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": { 
+    "jquery":"~1.11.2",   
+    "animate.css": "~3.2.0",
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.1.0",
+    "fitvids":"~1.1.0",
+    "isMobile":"0.3.6",
+    "jquery.inview" : "~1.0.0",
+    "matchHeight" :"~0.6.0",
+    "jquery-placeholder":"~2.1.1",
+    "jquery.scrollTo" :"~2.1.0",
+    "jquery-migrate" : "~1.2.1",
+    "flexslider":"git@github.com:woothemes/FlexSlider.git",
+    "easing":"git@github.com:gdsmith/jquery.easing.git"
+  }
+}
